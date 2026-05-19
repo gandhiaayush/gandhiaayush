@@ -1,6 +1,6 @@
 # Aayush Gandhi
 
-Math & CS at UC Berkeley. Working on applied AI and RL research.
+I study Math & CS at UC Berkeley. I'm currently working on applied AI projects and RL research.
 
 ---
 
